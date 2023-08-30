@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+WOW: Welcome to my blog
 ---
 
